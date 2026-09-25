@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-labelledby="title desc">
+<title id="title">NiyaOS profile console</title><desc id="desc">A lilac desktop window with Niya's name, project windows, and an animated grid motif.</desc>
+<style>
+  text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#29233e} .small{font-size:15px} .label{font-size:12px;letter-spacing:2px} .pulse{animation:glow 3s ease-in-out infinite alternate} .tile{animation:float 5s ease-in-out infinite alternate;transform-origin:center} .tile:nth-of-type(2n){animation-delay:-2s} @keyframes float{to{transform:translate(2px,-5px)}} @keyframes glow{to{opacity:.38}}
+</style>
+<rect width="1000" height="380" rx="22" fill="#ece8f7"/><rect x="19" y="18" width="962" height="344" rx="13" fill="#fbf9ff" stroke="#29233e" stroke-width="2"/>
+<path d="M19 31q0-13 13-13h936q13 0 13 13v38H19Z" fill="#7465b7"/><text x="43" y="51" font-size="17" fill="white">✦ niyaOS / profile.exe</text><circle cx="904" cy="43" r="8" fill="#e4bfd5"/><circle cx="929" cy="43" r="8" fill="#cfdefa"/><circle cx="954" cy="43" r="8" fill="#fff"/>
+<text x="65" y="117" class="label">C:\USERS\NIYA &gt; WHOAMI</text><text x="62" y="163" font-size="31" font-weight="bold">NIYA SINGH</text><text x="62" y="201" font-size="31" font-weight="bold">SHEKHAWAT<span class="pulse">_</span></text>
+<text x="65" y="236" class="small">Student · builder · aspiring data scientist</text><text x="65" y="267" class="small">GNITS '29  /  Hyderabad</text>
+<rect x="64" y="293" width="352" height="37" rx="7" fill="#dcd6f2" stroke="#29233e"/><text x="79" y="317" class="small">OPEN INTERACTIVE PORTFOLIO ↗</text>
+<rect x="542" y="93" width="392" height="233" rx="8" fill="#f2effa" stroke="#29233e" stroke-width="2"/><rect x="542" y="93" width="392" height="31" rx="8" fill="#e0d8f6"/><text x="557" y="113" class="label">CURRENT WINDOWS</text>
+<g fill="none" stroke="#9989ce"><path d="M574 146h42v42h-42zM622 146h42v42h-42zM670 146h42v42h-42zM574 194h42v42h-42zM622 194h42v42h-42zM670 194h42v42h-42zM574 242h42v42h-42zM622 242h42v42h-42zM670 242h42v42h-42z"/></g><rect class="tile" x="626" y="150" width="34" height="34" rx="5" fill="#bcaee6"/><rect class="tile" x="674" y="198" width="34" height="34" rx="5" fill="#e4bfd5"/><rect class="tile" x="578" y="246" width="34" height="34" rx="5" fill="#b7d9db"/>
+<text x="750" y="170" class="small">01 / JarvisAI</text><text x="750" y="208" class="small">02 / OnKo</text><text x="750" y="246" class="small">03 / EduPath</text><text x="750" y="284" class="small">04 / Invoxa</text>
+</svg>
